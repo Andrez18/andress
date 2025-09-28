@@ -92,7 +92,7 @@ const Hero = () => {
         <div className="main-container h-screen flex flex-col lg:justify-center items-start lg:py-12 max-lg:pt-40">
           <h1 className="text-3xl lg:text-[3.2vw] uppercase font-heading font-semibold">Andrés Gómez</h1>
           <h2 className="text-6xl lg:text-[8vw] font-heading font-bold leading-[1] tracking-tight mt-3 mb-6">Desarrollo web <br/> & <span className='text-stroke'> Diseño web </span></h2>
-          <GradientButton text="Hablemos" link="mailto:john@gmail.com" className="gradient-btn" />
+          <GradientButton text="Hablemos" link="mailto:dev.andrez18@gmail.com" className="gradient-btn" />
         </div>
 
         {/* shape */}
