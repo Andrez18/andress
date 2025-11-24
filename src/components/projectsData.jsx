@@ -17,6 +17,12 @@ const projects = [
     image: "/images/desarrollo.png",
     link: "https://desarrollo-ieca.vercel.app"
   },
+  {
+    id: 4,
+    name: "Landing Page / App web",
+    image: "/images/ferreforge.png",
+    link: "https:ferreforge.vercel.app"
+  }
 ];
 
 export default projects;
