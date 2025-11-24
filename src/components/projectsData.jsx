@@ -21,7 +21,7 @@ const projects = [
     id: 4,
     name: "Landing Page / App web",
     image: "/images/ferreforge.png",
-    link: "https:ferreforge.vercel.app"
+    link: "https://ferreforge.vercel.app"
   }
 ];
 
