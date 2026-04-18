@@ -53,7 +53,7 @@ const Navbar = () => {
         {/* Menu links */}
         <Link to="/" className='menu-link'>Inicio</Link>
         <Link to="/projects" className='menu-link'>Proyectos</Link>
-        <a href="mailto: johndoe@gmail.com" className='menu-link'>Contáctame</a>
+        <a href="mailto: dev.andrez18@gmail.com" className='menu-link'>Contáctame</a>
       </div>
     </>
   )
